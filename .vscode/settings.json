@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "rte_ip.h": "c",
+        "rte_ether.h": "c",
+        "rte_udp.h": "c",
+        "stdio.h": "c"
+    }
+}
